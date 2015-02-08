@@ -28,4 +28,4 @@ node_modules
 .lock-wscript
 
 # Distribution files
-dist/
+dist/*.map
