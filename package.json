@@ -1,0 +1,25 @@
+{
+  "name": "secret-octo-nemesis",
+  "version": "0.0.1",
+  "description": "Service for testing out Azure websites.",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbalaram/secret-octo-nemesis.git"
+  },
+  "author": "Prithvi Balaram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbalaram/secret-octo-nemesis/issues"
+  },
+  "homepage": "https://github.com/pbalaram/secret-octo-nemesis",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-6to5": "^3.0.1",
+    "load-grunt-tasks": "^3.1.0"
+  }
+}
